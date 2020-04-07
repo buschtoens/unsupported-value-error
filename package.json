@@ -1,6 +1,6 @@
 {
   "name": "unsupported-value-error",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Utility Error class for performing exhaustiveness checks via exceptions in TypeScript.",
   "repository": "buschtoens/unsupported-value-error",
   "author": "Jan Buschtöns <jan@buschtoens.me> (https://jan.buschtoens.me)",
